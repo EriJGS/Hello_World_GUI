@@ -1,0 +1,17 @@
+C:\Users\EricaJGS\source\repos\Hello_World_GUI\bin\Debug\netcoreapp3.1\Hello_World_GUI.exe
+C:\Users\EricaJGS\source\repos\Hello_World_GUI\bin\Debug\netcoreapp3.1\Hello_World_GUI.deps.json
+C:\Users\EricaJGS\source\repos\Hello_World_GUI\bin\Debug\netcoreapp3.1\Hello_World_GUI.runtimeconfig.json
+C:\Users\EricaJGS\source\repos\Hello_World_GUI\bin\Debug\netcoreapp3.1\Hello_World_GUI.runtimeconfig.dev.json
+C:\Users\EricaJGS\source\repos\Hello_World_GUI\bin\Debug\netcoreapp3.1\Hello_World_GUI.dll
+C:\Users\EricaJGS\source\repos\Hello_World_GUI\bin\Debug\netcoreapp3.1\Hello_World_GUI.pdb
+C:\Users\EricaJGS\source\repos\Hello_World_GUI\obj\Debug\netcoreapp3.1\Hello_World_GUI.csproj.AssemblyReference.cache
+C:\Users\EricaJGS\source\repos\Hello_World_GUI\obj\Debug\netcoreapp3.1\Hello_World_GUI.SayHi.resources
+C:\Users\EricaJGS\source\repos\Hello_World_GUI\obj\Debug\netcoreapp3.1\Hello_World_GUI.Properties.Resources.resources
+C:\Users\EricaJGS\source\repos\Hello_World_GUI\obj\Debug\netcoreapp3.1\Hello_World_GUI.csproj.GenerateResource.cache
+C:\Users\EricaJGS\source\repos\Hello_World_GUI\obj\Debug\netcoreapp3.1\Hello_World_GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EricaJGS\source\repos\Hello_World_GUI\obj\Debug\netcoreapp3.1\Hello_World_GUI.AssemblyInfoInputs.cache
+C:\Users\EricaJGS\source\repos\Hello_World_GUI\obj\Debug\netcoreapp3.1\Hello_World_GUI.AssemblyInfo.cs
+C:\Users\EricaJGS\source\repos\Hello_World_GUI\obj\Debug\netcoreapp3.1\Hello_World_GUI.csproj.CoreCompileInputs.cache
+C:\Users\EricaJGS\source\repos\Hello_World_GUI\obj\Debug\netcoreapp3.1\Hello_World_GUI.dll
+C:\Users\EricaJGS\source\repos\Hello_World_GUI\obj\Debug\netcoreapp3.1\Hello_World_GUI.pdb
+C:\Users\EricaJGS\source\repos\Hello_World_GUI\obj\Debug\netcoreapp3.1\Hello_World_GUI.genruntimeconfig.cache
